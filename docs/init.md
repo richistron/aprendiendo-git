@@ -7,12 +7,12 @@ El comando **init** crea un nuevo projecto de git, puede ser un repositorio loca
 Inicializa un proyecto local
 
 ```shell
-git init folder
+git init <nombre_carpeta>
 ```
 
 Nuevo servidor remoto
 
 ```shell
-git init --bare folder
+git init --bare <nombre_carpeta>
 ```
 
