@@ -6,8 +6,8 @@ Documentación acerca de como usar git y github.
 Índice
 ======
 
-* config
-* init
+* [config](docs/config.md)
+* [init](docs/init.md)
 * clone
 * add
 * status
