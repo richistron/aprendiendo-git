@@ -1,0 +1,43 @@
+[1mdiff --git a/docs/clone.md b/docs/clone.md[m
+[1mindex 9076baa..9fede19 100644[m
+[1m--- a/docs/clone.md[m
+[1m+++ b/docs/clone.md[m
+[36m@@ -7,7 +7,7 @@[m [mEl comando clone nos permite clonar a local un repositorio de git[m
+ git clone git@github.com:richistron/aprendiendo-git.git[m
+ ```[m
+ [m
+[31m-Parametros opcionales:[m
+[32m+[m[32mParámetros opcionales:[m
+ [m
+ * Carpeta [m
+ [m
+[1mdiff --git a/docs/commit.md b/docs/commit.md[m
+[1mindex 6c59839..f7e8ce6 100644[m
+[1m--- a/docs/commit.md[m
+[1m+++ b/docs/commit.md[m
+[36m@@ -1,19 +1,21 @@[m
+ git commit[m
+ ==========[m
+[31m-[m
+[32m+[m[32m El comando commit te permite crear un punto de referencia en tu codigo el cual te permite regresar a ese punto o deshacer esos cambios.[m
+[32m+[m[32m El formato mas simple para hacer un comit es el parámetro[m[41m [m
+ ```[m
+ git commit -m "primer commit"[m
+ ```[m
+ [m
+[31m-[m
+[32m+[m[32mUsando el parámetro -a significa que va a agregar todos los archivos modificados al commit[m
+ ```[m
+ git commit -am "primer commit"[m
+ ```[m
+ [m
+[32m+[m[32mEl comando commit sin parámetros te muestra una pantalla interactiva.[m
+ ```[m
+ git commit[m
+ ```[m
+[31m-[m
+[32m+[m[32mAgrega todos los archivos y te muestra la pantall interactiva[m
+ ```[m
+ git commit -a[m
+ ```[m
+\ No newline at end of file[m
