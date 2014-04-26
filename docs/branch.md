@@ -16,3 +16,5 @@ git branch -r
 ```
 git branch -v
 ```
+
+Haciendo una modificacion al Branch y asi.
