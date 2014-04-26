@@ -13,7 +13,7 @@ Si usamos el parametro `--all` agrega todos los archivos
 git add --all
 ```
 
-Usando este comando agrega todos los archivos excepto los que fueron borrados
+Usando este comando agrega todos los archivos, excepto los que fueron borrados
 
 ```
 git add .
