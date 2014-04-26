@@ -26,6 +26,17 @@ Documentación acerca de como usar git y github.
 * [.gitconfig](docs/.gitconfig)
 * [.gitignore](.gitignore)
 
+
+Otros documentos
+================
+
+* http://bit.ly/1gUvGjD
+* http://bit.ly/1qZrv9o
+* http://bit.ly/1eSVKx3
+* http://try.github.io
+* http://git-scm.com/book/es
+
+
 Contributors
 =============
 *
