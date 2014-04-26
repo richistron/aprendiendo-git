@@ -39,4 +39,6 @@ Otros documentos
 
 Contributors
 =============
-*Cesar Landeros
+* Ricardo Rivas G. <@richistron>
+* Michelle Torres <@nmicht>
+* Cesar Landeros
