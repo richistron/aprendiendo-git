@@ -17,6 +17,3 @@ git commit
 ```
 git commit -a
 ```
-
-Hola mundo
-Jose de Jesus Chavez Ascencio
