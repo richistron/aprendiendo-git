@@ -5,7 +5,7 @@ El formato más simple para hacer un commit es el parametro -m
 ```
 git commit -m "primer commit"
 ```
-Usando el parametro -a significa que va a agregar todo los archivos modificados al `commit`
+Usando el parametro -a significa que va a agergartodo los archivos modificados al `commit`
 
 ```
 git commit -am "primer commit"
