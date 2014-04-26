@@ -39,4 +39,5 @@ Otros documentos
 
 Contributors
 =============
-*
+* Ricardo Rivas G. <@richistron>
+* Michelle Torres <@nmicht>
