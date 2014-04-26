@@ -26,4 +26,3 @@ Documentación acerca de como usar git y github.
 * [.gitconfig](docs/.gitconfig)
 * [.gitignore](.gitignore)
 
-PacoVillagrana
