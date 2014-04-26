@@ -23,3 +23,6 @@ El parametro commit sin comandos te muestra una pantalla interactiva
 git commit -a
 ```
 El parametro '-a' significa que va a agregar todos los archivos modificados al commit
+
+
+IVAN RZ
