@@ -25,5 +25,6 @@ Documentación acerca de como usar git y github.
 * [hooks](docs/hooks.md)
 * [.gitconfig](docs/.gitconfig)
 
-blabla
 * [.gitignore](.gitignore)
+
+
