@@ -27,4 +27,3 @@ Documentación acerca de como usar git y github.
 * [.gitignore](.gitignore)
 
 Contributors
-============slkasdkjasdlkjasdlkj
