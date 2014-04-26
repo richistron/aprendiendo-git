@@ -4,6 +4,11 @@ git config
 El comando **config** nos sirve para setear especificas configuraciones a git. Muy al estilo de los de 
 [POSIX](http://en.wikipedia.org/wiki/POSIX), git usa dotfiles para manejar sus configuraciones locales sin afectar configuraciones del servidor u otros usuarios.
 
+Como se si mi configuración existe
+```
+cat ~/.gitconfig
+```
+
 Configurando tu usuario
 =======================
 
