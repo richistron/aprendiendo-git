@@ -24,4 +24,3 @@ Muestra una pantalla interactiva
 git commit -a
 ```
 
-Gabriel Ortiz 
