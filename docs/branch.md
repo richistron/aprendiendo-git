@@ -1,5 +1,6 @@
 git branch
 ==========
+El comando branch te permite crear ramas de tu codigo.
 
 El comando branch te permite crear ramas de tu código, cambiarte y verlas.
 
