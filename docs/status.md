@@ -11,3 +11,4 @@ El parametro `-s` muestra un status simple
 ```
 git status -s
 ```
+aprendiendo la diferencia de los dos status
