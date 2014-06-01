@@ -22,3 +22,6 @@ Agrega todos los archivos y te muestra la pantalla interactiva
 ```
 git commit -a
 ```
+aprendiendo sobre el commit
+añadiendo cambios
+otro más

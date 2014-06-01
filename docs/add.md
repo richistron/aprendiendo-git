@@ -18,3 +18,4 @@ Usando este comando agrega todos los archivos excepto los que fueron borrados
 ```
 git add .
 ```
+aprendiendo el comando add
