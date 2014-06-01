@@ -24,3 +24,4 @@ git commit -a
 ```
 aprendiendo sobre el commit
 añadiendo cambios
+otro más
